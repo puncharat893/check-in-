@@ -1,5 +1,5 @@
 // ประกาศค่า URL ที่ใช้เชื่อมต่อกับ Web App
-    const WEB_APP_MEMBER_URL = 'https://script.google.com/macros/s/AKfycbyaDmZhRWY0N5B8X2j0dzBEQ1DqSDT74s1s8Fg7bwF96fB3DnOEvM14BuTCz3jFd6YcMg/exec';
+    const WEB_APP_MEMBER_URL = 'https://script.google.com/macros/s/AKfycbyJjIDDzBhMrDFxawghFPz7GsPwFJwLjNTdTZFR20-rvqNy8YW64A6qN2yz__S9rp4dGw/exec';
     const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzVRpKGcNfQujQvDwSX-y5Lo6qk_ADdiL0Lo-YwD2hBy2L_2Kdj46Ayjv8kogzUnN_rGQ/exec';
 //LIFF_ID
     const LIFF_ID = '2008040462-gVP0VXlB'; // LIFF ID Checkin
