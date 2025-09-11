@@ -276,7 +276,9 @@
       } else {
         overlay.classList.remove('flex');
         overlay.classList.add('hidden');
-        inputs.forEach(input => input.disabled = false);
+         inputs.forEach(input => input.disabled = true);
+         //inputs.forEach(input => input.disabled = false);
+        
       }
     }
 
@@ -747,3 +749,4 @@
 </body>
 
 </html>
+
